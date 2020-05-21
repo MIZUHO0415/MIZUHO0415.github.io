@@ -31,3 +31,48 @@ img {
 .salon {
     width: 100%;
 }
+
+
+
+
+
+
+
+
+.online_guidence {
+    width: 100%;
+}
+
+.how_to_look {
+    width: 100%;
+}
+
+.ichirann {
+    width: 100%;
+}
+
+.exhibitor {
+    overflow: hidden;
+}
+
+.format_part {
+    width: 320px;
+}
+
+.format {
+    /* width: 80%; */
+    float: left;
+}
+
+.bottom_part {
+    width: 55px;
+    float: right;
+}
+
+.zoom {
+    width: 65px;
+}
+
+.hp {
+    width: 65px;
+}
