@@ -53,29 +53,31 @@ img {
 
 .exhibitor {
     overflow: hidden;
+    margin-bottom: 3px;
 }
 
-.format_part {
+/* .format_part {
     width: 320px;
-}
+} */
 
 .format {
-    /* width: 80%; */
+    width: 82%;
     float: left;
 }
 
 .bottom_part {
-    width: 75px;
+    width: 17%;
     float: right;
+    margin-left: 3px;
 }
 
 .zoom {
-    width: 75px;
-    height: 72px;
+    width: 92%;
+    /* height: 72px; */
 
 }
 
 .hp {
-    width: 75px;
-    height: 72px;
+    width: 92%;
+    /* height: 72px; */
 }
