@@ -65,14 +65,17 @@ img {
 }
 
 .bottom_part {
-    width: 55px;
+    width: 75px;
     float: right;
 }
 
 .zoom {
-    width: 65px;
+    width: 75px;
+    height: 72px;
+
 }
 
 .hp {
-    width: 65px;
+    width: 75px;
+    height: 72px;
 }
